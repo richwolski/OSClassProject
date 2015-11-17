@@ -1,0 +1,14 @@
+
+KOS booting... done.
+
+
+Probing console... done.
+Program exited with value 1.
+Machine halting!
+
+
+Cleaning up...
+Ticks: total 6615, idle 0, system 10, user 6605
+Disk I/O: reads 0, writes 0
+Console I/O: reads 0, writes 0
+Paging: faults 0

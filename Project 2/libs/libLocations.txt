@@ -1,0 +1,12 @@
+Kthreads
+Source:
+/cs/faculty/rich/cs170/src/libkt/
+Library:
+/cs/faculty/rich/cs170/lib/libkt.a
+
+Basic C functions:
+Library
+/cs/faculty/rich/cs170/lib/libfdr.a
+
+Dllist:
+http://web.eecs.utk.edu/~huangj/cs360/360/notes/Dllists/
